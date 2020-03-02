@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pati-jikyu/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/pati-jikyu/static/js/main.bad38fae.chunk.js",
+    "main.js.map": "/pati-jikyu/static/js/main.bad38fae.chunk.js.map",
+    "runtime-main.js": "/pati-jikyu/static/js/runtime-main.ceedfa6d.js",
+    "runtime-main.js.map": "/pati-jikyu/static/js/runtime-main.ceedfa6d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/pati-jikyu/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.f91d772a.chunk.js": "/pati-jikyu/static/js/2.f91d772a.chunk.js",
+    "static/js/2.f91d772a.chunk.js.map": "/pati-jikyu/static/js/2.f91d772a.chunk.js.map",
+    "index.html": "/pati-jikyu/index.html",
+    "precache-manifest.3448cd6c57c9818a487204aab0a6c58f.js": "/pati-jikyu/precache-manifest.3448cd6c57c9818a487204aab0a6c58f.js",
+    "service-worker.js": "/pati-jikyu/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/pati-jikyu/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/pati-jikyu/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f91d772a.chunk.js.LICENSE.txt": "/pati-jikyu/static/js/2.f91d772a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceedfa6d.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.f91d772a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bad38fae.chunk.js"
+  ]
+}
